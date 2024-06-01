@@ -3,8 +3,8 @@
 const char auth[] = "MYdsKEbxuY68mPuTH3sByCSQgSmNVVU8";
 
 const char ssid[] = "Redmi";
-const char pass[] = "27414152";
-#define BLYNK_TEMPLATE_ID "TMPL2DxyP7Gwf"
+const char pass[] = "***************************";
+#define BLYNK_TEMPLATE_ID "*****************"
 #define BLYNK_TEMPLATE_NAME "IoT Energy Meter"
 #define BLYNK_PRINT Serial
 
